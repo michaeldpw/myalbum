@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The front end is React and the back end is Node.js. The function of this app is that the user can upload photos from the browser to local.
+
 ## Available Scripts
 
 In the project directory, you can run:
